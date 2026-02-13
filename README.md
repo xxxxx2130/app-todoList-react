@@ -6,14 +6,6 @@ Développée dans le cadre du module **Programmation Application Client** de la 
 
 ---
 
-## Auteurs
-- **Selsabil KHELALFA** – 22403233  
-- **Lamia HADJ BENABDELMOULA** – 22409436  
-
-**Groupe TD :** 3B  
-**Date :** 1 décembre 2025  
-
----
 
 ## Fonctionnalités
 ### 1. Authentification et Gestion de Compte
@@ -76,7 +68,7 @@ npm install
 
     Lancer l’application :
 
-npm start
+npm run start
 
     Scanner le QR code avec Expo Go ou utiliser un émulateur mobile.
 
