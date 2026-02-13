@@ -1,4 +1,8 @@
-# Application de Gestion de Tâches - React Native
+# Application de Gestion de Tâches - React ## Description
+Cette application mobile permet aux utilisateurs de gérer efficacement leurs tâches quotidiennes.  
+Développée dans le cadre du module **Programmation Application Client** de la Licence 3 Informatique à l'Université de Caen Normandie, elle offre une interface intuitive et des fonctionnalités complètes pour la gestion des listes et tâches individuelles.
+
+---
 
 
 
